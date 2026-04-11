@@ -1,5 +1,5 @@
 local link = "https://work.ink/23kL/rob-it-key"
-local correctKey = "6352-7462-6583-74626"
+local correctKey = "X7A2-91BC-44FF-EE82-73D1-9C55-AB10-FF29-6D38-71AE-5C92ad"
 
 setclipboard(link)
 
